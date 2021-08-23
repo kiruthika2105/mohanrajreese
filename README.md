@@ -14,7 +14,7 @@
  
 <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Medal.gif" width=20 height=20>  I’m currently pursuing my Final year of Master's degree in Computer Application at [PSG Tech, Coimbatore.](https://www.psgtech.edu/)
  
-🌱 I’m currently learning [C++](https://www.cplusplus.com/) and [Open-CV](https://docs.opencv.org/)
+🌱 I’m currently learning [Flutter](https://www.flutter.com/) and [Open-CV](https://docs.opencv.org/)
 
 🔭 Looking for some interesting projects to work!
  
